@@ -1,0 +1,8 @@
+{
+  "debug": false,
+  "version": "1.0.0",
+  "discordData": {
+    "token": "token",
+    "guild": "primary guild"
+  }
+}
