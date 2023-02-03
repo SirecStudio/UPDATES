@@ -1,4 +1,4 @@
 {
-{"steam":"steam:1100001159cb353", "license":"license:a87d06628afccbb84dc80a2e8a741d4f8336db95"},
-{"steam":"steam:99999", "license":"license:00000"},
+[1] = {"steam":"steam:1100001159cb353", "license":"license:a87d06628afccbb84dc80a2e8a741d4f8336db95"},
+[2] = {"steam":"steam:99999", "license":"license:00000"},
 }
